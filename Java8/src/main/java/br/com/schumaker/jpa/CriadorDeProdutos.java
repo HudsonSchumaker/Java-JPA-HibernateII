@@ -14,10 +14,12 @@ import org.springframework.transaction.support.TransactionTemplate;
 import br.com.schumaker.jpa.model.Categoria;
 import br.com.schumaker.jpa.model.Loja;
 import br.com.schumaker.jpa.model.Produto;
+
 /**
  *
  * @author hudson schumaker
  */
+
 @Component
 public class CriadorDeProdutos {
 
